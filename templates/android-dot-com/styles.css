@@ -73,7 +73,7 @@ a img{
 }
 
   .android-header .material-icons {
-    color: #767777 !important;
+    color: white !important;
   }
 
   .android-header .mdl-layout__drawer-button {
@@ -153,7 +153,7 @@ a img{
 
   .android-drawer .mdl-layout-title {
     position: relative;
-    background: #6ab344;
+    background: #68516d;
     height: 160px;
   }
 
@@ -531,4 +531,6 @@ a img{
   .android-footer .mdl-mega-footer--bottom-section {
     display: none;
   }
+ 
+	
 }
